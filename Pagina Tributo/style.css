@@ -1,0 +1,107 @@
+html{    /*tipo de letra de la page en si*/
+    font-size: 7px;
+}
+p{ 
+ font-size: 30px;
+  
+}
+body {  /* Caracteristicas bases del body*/
+    font-family: 'Architects Daughter', cursive;
+    font-size: 2rem;
+    line-height: 1.5;
+    text-align: center;
+    color: blanchedalmond;
+    margin:0;
+    background-image: url(https://www.wallpapertip.com/wmimgs/59-595164_mobile-music-wallpaper-hd.jpg);
+}
+
+h1 {
+    font-size: 8rem;
+    margin-bottom: 1;
+   font-family: 'Russo One', sans-serif;
+}
+
+
+
+h2 { 
+    font-size: 3rem;
+}
+
+#main {
+    margin: 30px 8px;
+    color: white;
+    background-color: transparent;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20210227/pngtree-blue-minimalist-microphone-wallpaper-image_571570.jpg) ;
+    filter: alpha(opacity=70);
+    border: 2px solid blue;
+    font-family: 'Bebas Neue', cursive;
+    
+}
+
+@media (max-width:460px) {
+    #main {
+        margin:0;        
+    }
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 4px;
+    margin-top: 5px;
+}
+
+#img-div {
+    background-color: #1598;
+    padding: 50px;
+    margin: 0;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#img-caption {
+    margin: 15px 0px 5px 0px;
+    color: 0;
+    margin-bottom: 2px;
+}
+
+@media (max-width: 460px) {
+    #img-caption{
+        font-size: 1.2rem;
+    }
+}
+
+#headline {
+    margin: 70px 0;
+    text-align: center;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li {
+    margin: 16px 0;
+}
+
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    background-color: cornflowerblue;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
+h3 {
+    color: white;
+    font-size: 2,5rem ;
+}
