@@ -1,0 +1,166 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1920___1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1920___1 {
+    position: absolute;
+    width: 2087px;
+    height: 1027px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.Rect_ngulo_1 {
+    position: absolute;
+    overflow: visible;
+    width: 547px;
+    height: 1027px;
+    left: 0px;
+    top: 0px;
+}
+.Rect_ngulo_2 {
+    position: absolute;
+    overflow: visible;
+    width: 547px;
+    height: 1027px;
+    left: 1540px;
+    top: 0px;
+}
+.Rect_ngulo_3 {
+    position: absolute;
+    overflow: visible;
+    width: 993px;
+    height: 1027px;
+    left: 547px;
+    top: 0px;
+}
+#Registro {
+    position: absolute;
+    left: 855px;
+    top: 66px;
+    overflow: visible;
+    width: 346px;
+    height: 132px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(255,255,255,1);
+}
+
+
+
+#Correo_Electronico {
+      position: absolute;
+    left: 636px;
+    top: 198px;
+    overflow: visible;
+    width: 346px;
+    height: 71px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(149,149,149,1);
+}
+
+#Contrase_a {
+    position: absolute;
+    left: 636px;
+    top: 378px;
+    overflow: visible;
+    width: 470px;
+    height: 71px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(149,149,149,1);
+}
+.Rect_ngulo_8 {
+    position: absolute;
+    overflow: visible;
+    width: 293px;
+    height: 72px;
+    left: 735px;
+    top: 586px;
+}
+.Rect_ngulo_9 {
+    position: absolute;
+    overflow: visible;
+    width: 293px;
+    height: 72px;
+    left: 1054px;
+    top: 586px;
+}
+#Listo {
+    position: absolute;
+    left: 839px;
+    top: 586px;
+    overflow: visible;
+    width: 110px;
+    height: 55px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(239,239,239,1);
+}
+#Cancelar {
+    position: absolute;
+    left: 1130px;
+    top: 586px;
+    overflow: visible;
+    width: 173px;
+    height: 61px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(239,239,239,1);
+}
+
+#campos{
+
+    top: 892px;
+    overflow: visible;
+    font-size: 30px;
+    width: 800px;
+    height: 80px;
+    background-color: rgb(201, 200, 200);
+    color: rgb(75, 75, 75);
+}
+
+#campos1{
+
+    top: 892px;
+    overflow: visible;
+    font-size: 50px;
+    width: 800px;
+    height: 80px;
+    background-color: rgb(201, 200, 200);
+    color: rgb(75, 75, 75);
+}
+
+#titulo{
+    color: wheat;
+}
